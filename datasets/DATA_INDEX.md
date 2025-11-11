@@ -25,8 +25,23 @@ This file provides links and references to all folders and files within the data
 - [studentAssessment.csv](./open-university-learning-analytics-dataset/studentAssessment.csv)
 - [studentInfo.csv](./open-university-learning-analytics-dataset/studentInfo.csv)
 - [studentRegistration.csv](./open-university-learning-analytics-dataset/studentRegistration.csv)
-- [studentVle.csv](./open-university-learning-analytics-dataset/studentVle.csv)
 - [vle.csv](./open-university-learning-analytics-dataset/vle.csv)
+
+#### studentVle Split Files
+**Path:** [./open-university-learning-analytics-dataset/studentVle_split/](./open-university-learning-analytics-dataset/studentVle_split/)
+
+**Note:** The original `studentVle.csv` file had been split into smaller files due to its large size (>200MB, containing over 10.6 million rows).
+
+##### Files
+- [README.md](./open-university-learning-analytics-dataset/studentVle_split/README.md) - Documentation about the split files
+- [studentVle_part1.csv](./open-university-learning-analytics-dataset/studentVle_split/studentVle_part1.csv) - 2,000,000 data rows
+- [studentVle_part2.csv](./open-university-learning-analytics-dataset/studentVle_split/studentVle_part2.csv) - 2,000,000 data rows
+- [studentVle_part3.csv](./open-university-learning-analytics-dataset/studentVle_split/studentVle_part3.csv) - 2,000,000 data rows
+- [studentVle_part4.csv](./open-university-learning-analytics-dataset/studentVle_split/studentVle_part4.csv) - 2,000,000 data rows
+- [studentVle_part5.csv](./open-university-learning-analytics-dataset/studentVle_split/studentVle_part5.csv) - 2,000,000 data rows
+- [studentVle_part6.csv](./open-university-learning-analytics-dataset/studentVle_split/studentVle_part6.csv) - 655,280 data rows (remainder)
+
+**Total:** 10,655,280 data rows across all split files
 
 ### 2. xAPI-Edu-Data
 **Path:** [./xapi-edu-data/](./xapi-edu-data/)
@@ -79,7 +94,7 @@ This file provides links and references to all folders and files within the data
 ---
 
 ## Files by Type
-- **CSV Files**: assessments.csv, courses.csv, studentAssessment.csv, studentInfo.csv, studentRegistration.csv, studentVle.csv, vle.csv, xapi-edu-data/xAPI-Edu-Data.csv, student-mat.csv, student-por.csv
+- **CSV Files**: assessments.csv, courses.csv, studentAssessment.csv, studentInfo.csv, studentRegistration.csv, vle.csv, studentVle_split/studentVle_part1.csv through studentVle_part6.csv (original studentVle.csv split due to size), xapi-edu-data/xAPI-Edu-Data.csv, student-mat.csv, student-por.csv
 - **Excel Files**: final_grades.xlsx, intermediate_grades.xlsx
 - **PDF Files**: final_exam.pdf, final_exam_ ENG.pdf
 - **Text Files**: activities_info.txt, activities.txt, exercises_info.txt, features_info.txt, features.txt, grades_info.txt, logs.txt, OULAD.names, README.txt, student.txt
