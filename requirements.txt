@@ -1,0 +1,14 @@
+# Jupyter Notebook Environment
+# These are required to run Jupyter notebooks locally
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Optional but recommended for better notebook experience
+ipywidgets>=8.0.0
+jupyterlab>=4.0.0
+
+# Note: Data science packages (pandas, numpy, matplotlib, seaborn) 
+# are installed automatically in the notebook via !pip install
+# This makes the notebook compatible with both local Jupyter and Google Colab
+
