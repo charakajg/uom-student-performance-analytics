@@ -1,0 +1,1045 @@
+school,sex,address,famsize,Pstatus,Mjob,Fjob,reason,guardian,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,has_failures,high_absences,passed,performance_category
+GP,F,U,GT3,A,at_home,teacher,course,mother,yes,no,no,no,yes,yes,no,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,at_home,other,course,father,no,yes,no,no,no,yes,yes,no,0,1,0,Needs Improvement
+GP,F,U,LE3,T,at_home,other,other,mother,yes,no,yes,no,yes,yes,yes,no,1,1,1,Satisfactory
+GP,F,U,GT3,T,health,services,home,mother,no,yes,yes,yes,yes,yes,yes,yes,0,0,1,Good
+GP,F,U,GT3,T,other,other,home,father,no,yes,yes,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,M,U,LE3,T,services,other,reputation,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Good
+GP,M,U,LE3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,A,other,teacher,home,mother,yes,yes,no,no,yes,yes,no,no,0,1,0,Needs Improvement
+GP,M,U,LE3,A,services,other,home,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,GT3,T,other,other,home,mother,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,teacher,health,reputation,mother,no,yes,yes,no,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,GT3,T,services,other,reputation,father,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,LE3,T,health,services,course,father,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,teacher,other,course,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,A,other,other,home,other,no,yes,no,no,yes,yes,yes,yes,0,0,1,Excellent
+GP,F,U,GT3,T,health,other,home,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Good
+GP,F,U,GT3,T,services,services,reputation,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Good
+GP,F,U,GT3,T,other,other,reputation,mother,yes,yes,no,yes,yes,yes,no,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,services,services,course,mother,no,yes,no,yes,yes,yes,yes,no,1,1,0,Needs Improvement
+GP,M,U,LE3,T,health,other,home,father,no,no,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,other,reputation,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,health,health,other,father,no,yes,yes,no,yes,yes,yes,no,0,0,1,Good
+GP,M,U,LE3,T,teacher,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,LE3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,services,health,course,mother,yes,yes,yes,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,GT3,T,services,services,home,mother,no,yes,yes,no,no,yes,yes,no,1,1,0,Needs Improvement
+GP,M,U,GT3,T,other,other,home,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,health,services,other,mother,no,no,yes,no,yes,yes,yes,no,0,1,1,Good
+GP,M,U,LE3,A,services,other,home,mother,yes,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,teacher,home,mother,no,yes,yes,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,health,services,home,mother,no,yes,yes,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,services,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,R,GT3,T,teacher,at_home,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Excellent
+GP,M,U,LE3,T,other,other,course,mother,no,no,no,yes,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,mother,no,yes,yes,no,no,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,other,other,other,father,no,yes,no,yes,yes,yes,no,no,0,0,0,Needs Improvement
+GP,M,U,LE3,T,teacher,services,home,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,R,GT3,A,other,teacher,reputation,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,F,R,GT3,T,services,health,course,mother,yes,yes,yes,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,at_home,other,reputation,mother,yes,yes,yes,yes,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,LE3,T,other,other,home,mother,no,yes,no,yes,no,yes,yes,yes,1,1,1,Satisfactory
+GP,M,U,LE3,T,teacher,other,home,other,no,yes,no,no,no,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,services,teacher,course,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,GT3,T,services,services,course,father,yes,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,other,at_home,course,father,yes,no,no,yes,yes,yes,yes,no,1,1,0,Needs Improvement
+GP,F,U,LE3,A,other,other,course,mother,yes,yes,yes,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,F,U,LE3,A,other,services,home,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,health,services,reputation,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Excellent
+GP,M,U,GT3,T,teacher,other,home,mother,no,yes,yes,no,yes,yes,no,no,0,0,1,Good
+GP,F,U,GT3,T,services,teacher,other,father,yes,yes,no,yes,no,yes,yes,no,1,0,0,Needs Improvement
+GP,F,U,LE3,T,services,services,course,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,health,other,other,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,A,health,health,other,father,no,no,no,no,yes,yes,no,no,1,1,1,Satisfactory
+GP,F,U,GT3,T,services,services,course,mother,yes,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,A,other,other,other,mother,no,no,yes,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,A,other,other,other,mother,no,no,yes,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,A,services,services,reputation,mother,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,teacher,health,reputation,mother,no,yes,no,yes,yes,yes,no,no,0,1,1,Good
+GP,M,U,LE3,T,other,at_home,home,father,yes,yes,no,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,GT3,T,services,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+GP,F,R,GT3,T,health,teacher,other,mother,no,yes,no,yes,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,services,course,father,yes,yes,no,yes,no,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,LE3,T,other,services,reputation,father,yes,no,no,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,teacher,health,home,mother,yes,yes,yes,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,LE3,T,services,services,reputation,father,yes,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,LE3,T,teacher,services,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,A,other,services,reputation,mother,no,yes,no,yes,no,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,other,course,mother,yes,yes,yes,no,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,F,R,LE3,T,health,services,reputation,mother,yes,yes,yes,no,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,R,LE3,T,other,other,reputation,father,no,yes,no,no,no,yes,yes,no,0,1,1,Excellent
+GP,M,U,GT3,T,other,other,reputation,father,no,yes,yes,no,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,other,other,course,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,other,other,reputation,mother,yes,yes,no,no,no,yes,yes,yes,1,0,0,Needs Improvement
+GP,M,U,GT3,T,other,other,reputation,mother,no,no,no,yes,yes,yes,no,no,0,0,1,Good
+GP,F,U,GT3,T,other,services,home,mother,yes,yes,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,other,home,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,reputation,mother,no,no,yes,no,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,mother,yes,yes,no,yes,yes,no,yes,no,1,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,M,U,GT3,T,other,services,course,father,yes,yes,yes,yes,no,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,mother,yes,no,yes,no,no,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,LE3,T,services,other,reputation,mother,no,yes,yes,no,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,M,U,LE3,T,services,services,home,mother,no,no,yes,yes,yes,yes,yes,no,0,1,1,Good
+GP,F,U,GT3,T,other,other,home,father,no,yes,no,yes,no,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,services,reputation,father,no,no,yes,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+GP,F,U,LE3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,no,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,services,other,reputation,father,no,no,yes,yes,no,yes,yes,no,1,1,1,Satisfactory
+GP,M,U,LE3,A,teacher,health,reputation,mother,no,yes,no,no,yes,yes,no,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,other,other,home,mother,no,yes,yes,no,yes,yes,yes,yes,0,0,0,Needs Improvement
+GP,F,U,GT3,T,services,other,reputation,mother,no,no,yes,yes,yes,yes,yes,no,0,1,1,Excellent
+GP,F,U,LE3,T,other,other,home,father,yes,yes,no,no,yes,yes,no,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,teacher,services,home,mother,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,services,health,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,F,R,GT3,T,at_home,other,home,mother,yes,yes,yes,yes,yes,yes,yes,no,1,0,1,Satisfactory
+GP,M,R,GT3,T,services,other,reputation,mother,yes,yes,no,yes,no,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,other,other,course,mother,no,yes,yes,no,yes,yes,no,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,reputation,mother,no,no,no,yes,no,yes,yes,no,0,1,1,Good
+GP,F,U,GT3,T,other,at_home,course,mother,yes,yes,yes,no,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,M,U,GT3,T,services,services,other,mother,yes,yes,yes,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,M,U,GT3,T,services,teacher,other,father,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Excellent
+GP,M,U,GT3,T,services,other,course,mother,no,yes,no,yes,no,yes,yes,no,0,1,1,Good
+GP,F,U,GT3,T,services,other,home,mother,yes,yes,yes,no,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,M,U,GT3,A,services,other,course,mother,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,F,U,GT3,A,other,health,reputation,father,yes,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,yes,yes,yes,no,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,M,U,GT3,T,services,other,home,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,R,GT3,T,other,other,home,father,no,yes,yes,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,LE3,T,health,health,other,mother,no,yes,yes,yes,yes,yes,yes,yes,0,1,1,Excellent
+GP,M,U,LE3,A,teacher,teacher,course,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Excellent
+GP,F,R,GT3,T,services,other,reputation,father,yes,yes,no,yes,yes,yes,yes,no,1,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,home,mother,yes,no,no,yes,yes,yes,yes,no,1,1,1,Satisfactory
+GP,M,U,LE3,T,teacher,other,course,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Excellent
+GP,M,R,GT3,T,health,services,reputation,mother,no,no,no,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,M,U,GT3,T,teacher,teacher,course,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,GT3,T,other,teacher,reputation,father,no,yes,no,yes,yes,yes,no,no,0,0,1,Good
+GP,M,U,GT3,T,other,services,home,father,no,no,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,R,GT3,T,other,other,course,father,no,yes,no,yes,yes,yes,yes,no,1,1,0,Needs Improvement
+GP,M,U,GT3,T,other,other,reputation,father,no,no,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,services,course,mother,no,no,no,no,no,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,services,services,home,father,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Good
+GP,F,U,LE3,T,other,health,course,father,no,yes,yes,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,health,other,course,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,home,mother,no,no,yes,no,yes,yes,yes,yes,0,0,0,Needs Improvement
+GP,M,U,GT3,T,services,services,home,father,yes,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,A,other,other,home,mother,yes,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,course,other,no,yes,no,no,no,no,no,no,1,0,0,Needs Improvement
+GP,M,R,GT3,T,services,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,1,0,0,Needs Improvement
+GP,M,R,GT3,T,teacher,teacher,course,mother,no,no,yes,yes,yes,yes,yes,no,0,1,1,Excellent
+GP,F,R,GT3,T,services,teacher,course,father,no,yes,no,no,yes,yes,yes,yes,1,0,0,Needs Improvement
+GP,F,U,GT3,T,at_home,other,course,mother,no,yes,no,yes,no,yes,yes,yes,0,0,0,Needs Improvement
+GP,F,U,LE3,T,other,other,course,father,no,yes,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,A,services,other,course,father,no,no,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,R,GT3,T,at_home,teacher,course,mother,no,yes,no,no,yes,yes,no,yes,0,0,0,Needs Improvement
+GP,F,U,GT3,T,services,at_home,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,0,Needs Improvement
+GP,M,R,GT3,T,at_home,other,course,mother,no,no,no,no,yes,yes,no,no,0,0,0,Needs Improvement
+GP,F,U,GT3,A,other,other,course,other,no,yes,no,yes,no,yes,yes,yes,1,0,0,Needs Improvement
+GP,M,U,LE3,T,services,other,course,mother,no,no,no,no,yes,yes,no,yes,1,0,1,Satisfactory
+GP,F,U,GT3,T,teacher,teacher,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,teacher,services,course,father,yes,yes,no,no,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,M,U,LE3,T,services,services,reputation,father,no,yes,no,yes,yes,yes,yes,no,1,1,0,Needs Improvement
+GP,F,U,GT3,T,teacher,services,course,mother,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,at_home,at_home,course,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,no,1,0,0,Needs Improvement
+GP,F,U,GT3,T,other,services,course,father,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,health,services,home,father,no,yes,no,no,yes,yes,yes,no,1,0,0,Needs Improvement
+GP,F,U,GT3,T,at_home,other,course,mother,no,yes,yes,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,teacher,teacher,course,mother,no,yes,no,no,yes,no,yes,yes,0,0,0,Needs Improvement
+GP,M,U,LE3,A,services,other,course,mother,no,no,no,no,yes,yes,yes,no,1,0,1,Satisfactory
+GP,M,U,LE3,T,other,other,course,mother,no,no,no,no,yes,no,yes,yes,1,0,0,Needs Improvement
+GP,M,U,LE3,T,at_home,other,course,mother,no,no,no,yes,yes,yes,no,yes,1,1,1,Good
+GP,F,R,GT3,T,services,services,reputation,other,no,yes,yes,yes,yes,yes,yes,yes,1,1,1,Satisfactory
+GP,M,U,GT3,T,services,at_home,home,mother,no,yes,no,no,yes,no,yes,yes,1,0,0,Needs Improvement
+GP,F,U,GT3,T,other,teacher,course,mother,yes,yes,no,no,yes,yes,no,yes,0,0,1,Satisfactory
+GP,M,R,GT3,T,at_home,services,course,mother,yes,no,yes,yes,yes,yes,no,no,0,0,0,Needs Improvement
+GP,M,R,LE3,T,other,other,reputation,mother,no,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,R,GT3,T,at_home,other,course,mother,no,yes,no,yes,no,yes,no,no,1,1,1,Satisfactory
+GP,M,R,GT3,T,at_home,other,course,mother,no,no,no,no,no,yes,no,no,0,0,1,Good
+GP,M,U,GT3,T,other,services,course,father,no,yes,yes,no,yes,yes,yes,yes,1,1,1,Satisfactory
+GP,M,R,LE3,T,at_home,other,course,mother,no,no,no,yes,yes,no,yes,yes,1,0,0,Needs Improvement
+GP,M,R,GT3,T,other,other,course,mother,yes,yes,no,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+GP,M,U,LE3,T,other,other,course,mother,no,no,no,yes,yes,yes,no,no,1,0,0,Needs Improvement
+GP,M,U,GT3,T,at_home,services,course,father,no,no,no,no,yes,no,yes,no,0,0,1,Satisfactory
+GP,M,R,LE3,T,other,services,course,mother,no,no,no,yes,yes,no,no,yes,1,0,0,Needs Improvement
+GP,M,U,GT3,T,services,services,course,mother,no,yes,no,yes,no,no,no,no,1,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,course,father,no,no,no,no,yes,no,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,health,services,home,father,no,no,yes,no,yes,yes,yes,yes,0,0,1,Excellent
+GP,F,U,GT3,T,other,other,home,mother,no,yes,yes,no,no,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,GT3,T,health,health,reputation,mother,no,yes,yes,no,yes,yes,yes,yes,0,0,1,Good
+GP,M,U,GT3,T,other,other,course,father,no,yes,no,yes,no,yes,yes,no,1,0,0,Needs Improvement
+GP,M,U,GT3,T,other,other,reputation,mother,no,yes,yes,yes,yes,yes,yes,yes,0,0,1,Excellent
+GP,M,U,LE3,T,teacher,other,reputation,mother,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,services,home,mother,no,no,no,yes,no,yes,yes,yes,1,0,0,Needs Improvement
+GP,F,U,LE3,T,other,other,reputation,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,M,U,LE3,T,teacher,other,course,mother,no,no,yes,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,services,other,reputation,mother,no,no,yes,yes,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,reputation,father,no,no,no,yes,no,yes,yes,no,0,1,0,Needs Improvement
+GP,M,R,GT3,T,teacher,services,other,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,M,U,GT3,T,other,other,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,other,home,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,M,U,GT3,T,services,other,home,mother,no,no,yes,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,services,reputation,father,no,yes,no,yes,yes,yes,no,no,0,0,1,Excellent
+GP,F,U,LE3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,F,U,GT3,T,other,other,reputation,mother,no,yes,yes,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,services,services,other,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,services,services,other,mother,no,yes,yes,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,LE3,T,other,other,course,mother,no,no,yes,yes,yes,yes,yes,yes,0,0,1,Good
+GP,F,U,GT3,A,health,other,reputation,mother,no,yes,no,no,no,yes,yes,yes,0,1,0,Needs Improvement
+GP,M,R,GT3,T,at_home,other,home,mother,no,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,services,course,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,services,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,M,U,GT3,T,at_home,services,other,other,no,no,yes,yes,no,yes,yes,no,0,1,0,Needs Improvement
+GP,M,R,GT3,T,services,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,father,no,no,no,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,LE3,T,services,services,course,father,no,no,no,yes,yes,yes,yes,yes,0,0,1,Good
+GP,M,U,GT3,T,services,teacher,home,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Excellent
+GP,M,R,LE3,T,teacher,other,home,father,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,teacher,home,mother,no,yes,no,no,yes,yes,yes,no,1,1,1,Excellent
+GP,F,U,LE3,T,teacher,teacher,reputation,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,health,other,home,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,F,U,GT3,T,other,other,reputation,mother,yes,yes,yes,yes,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,no,yes,yes,no,no,yes,no,no,0,1,1,Satisfactory
+GP,F,R,GT3,T,other,other,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,F,R,GT3,T,services,services,reputation,mother,no,yes,yes,yes,no,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,services,home,mother,no,yes,yes,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+GP,F,U,GT3,A,services,other,course,mother,no,yes,yes,no,yes,yes,yes,no,1,1,0,Needs Improvement
+GP,F,U,GT3,T,teacher,other,other,mother,no,no,yes,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,home,mother,no,yes,yes,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,R,GT3,T,teacher,other,reputation,mother,no,yes,yes,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,F,U,GT3,T,other,other,reputation,other,no,yes,yes,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,M,U,LE3,T,services,other,home,mother,no,yes,yes,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,A,other,other,reputation,mother,yes,yes,yes,no,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,services,other,home,mother,no,yes,yes,yes,yes,yes,yes,no,1,1,0,Needs Improvement
+GP,F,R,LE3,T,services,other,other,mother,no,yes,yes,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,LE3,T,other,other,reputation,mother,no,no,yes,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,other,other,reputation,mother,no,no,yes,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+GP,M,U,LE3,T,services,health,home,father,no,yes,yes,no,yes,yes,yes,no,1,1,0,Needs Improvement
+GP,F,U,GT3,T,at_home,other,home,father,no,yes,yes,no,yes,yes,no,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,at_home,at_home,course,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,R,GT3,T,at_home,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,GT3,T,at_home,other,reputation,mother,no,yes,no,yes,yes,yes,no,yes,1,0,0,Needs Improvement
+GP,F,U,GT3,T,services,teacher,other,mother,yes,no,no,no,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,GT3,T,other,other,home,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,teacher,services,home,mother,no,yes,no,yes,no,yes,yes,no,0,0,1,Good
+GP,F,R,GT3,T,other,other,reputation,mother,no,no,no,yes,yes,yes,yes,yes,1,1,0,Needs Improvement
+GP,F,U,GT3,T,other,other,course,mother,no,no,no,yes,no,yes,yes,no,0,1,1,Good
+GP,M,U,LE3,T,services,services,reputation,father,no,yes,yes,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,at_home,other,course,mother,yes,yes,yes,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,F,U,GT3,A,other,other,course,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,LE3,T,health,other,reputation,father,no,no,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,M,R,GT3,T,other,other,course,father,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,teacher,reputation,mother,yes,yes,no,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,M,U,GT3,T,health,other,reputation,father,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,other,other,home,mother,no,yes,yes,no,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,M,U,GT3,T,at_home,other,reputation,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,LE3,T,other,other,home,father,no,no,yes,yes,no,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,R,GT3,T,at_home,services,course,mother,no,no,no,yes,yes,yes,no,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,services,reputation,father,no,no,no,no,yes,no,yes,no,1,0,0,Needs Improvement
+GP,M,U,LE3,T,health,other,course,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,R,LE3,A,teacher,other,course,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,teacher,other,course,mother,no,no,no,yes,no,yes,yes,no,0,0,0,Needs Improvement
+GP,M,U,GT3,T,services,services,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,other,no,yes,yes,no,no,yes,yes,yes,0,0,0,Needs Improvement
+GP,M,U,GT3,T,other,other,course,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Excellent
+GP,M,U,GT3,T,other,other,course,father,no,no,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,services,services,other,mother,no,no,no,no,no,no,yes,yes,1,1,0,Needs Improvement
+GP,M,R,LE3,T,other,services,course,mother,no,yes,no,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+GP,M,U,GT3,T,other,other,other,mother,no,no,yes,no,no,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,services,other,course,mother,no,no,no,no,yes,no,yes,no,1,0,0,Needs Improvement
+GP,M,U,GT3,T,at_home,other,reputation,other,yes,yes,no,no,no,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,services,services,other,mother,no,no,no,no,no,no,yes,no,1,1,0,Needs Improvement
+GP,M,R,GT3,T,other,other,course,mother,no,no,no,yes,no,yes,no,no,0,0,0,Needs Improvement
+GP,M,R,GT3,T,other,other,course,mother,no,no,no,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,health,other,course,mother,no,yes,no,yes,yes,yes,yes,no,1,0,0,Needs Improvement
+GP,F,U,LE3,T,teacher,services,reputation,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,LE3,A,services,at_home,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,F,U,LE3,T,services,services,course,father,no,no,yes,yes,yes,yes,yes,yes,0,0,0,Needs Improvement
+GP,F,U,GT3,T,services,other,home,father,no,yes,yes,no,yes,yes,yes,yes,0,1,1,Excellent
+GP,M,U,GT3,T,teacher,other,course,mother,no,yes,yes,no,no,yes,yes,no,0,0,0,Needs Improvement
+GP,M,R,GT3,T,other,other,course,mother,no,no,no,yes,no,yes,no,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,home,mother,no,no,no,yes,no,yes,no,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,at_home,services,home,mother,no,yes,yes,yes,yes,yes,yes,yes,0,0,0,Needs Improvement
+GP,M,R,LE3,A,other,other,reputation,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Excellent
+GP,M,U,GT3,T,services,other,other,mother,no,no,yes,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,R,GT3,T,teacher,other,reputation,mother,no,no,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,health,other,reputation,father,no,yes,yes,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,R,GT3,T,other,other,reputation,mother,no,yes,no,no,yes,no,yes,yes,0,0,0,Needs Improvement
+GP,F,U,GT3,T,other,services,home,other,no,yes,yes,yes,yes,yes,yes,no,1,1,0,Needs Improvement
+GP,F,U,GT3,T,other,services,reputation,father,no,yes,yes,yes,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,LE3,T,other,other,home,mother,no,yes,yes,no,no,yes,no,no,0,0,1,Satisfactory
+GP,M,R,GT3,T,at_home,at_home,home,mother,no,yes,yes,yes,no,yes,no,yes,0,0,1,Good
+GP,F,U,GT3,T,at_home,health,reputation,mother,no,yes,yes,no,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,LE3,T,services,other,course,mother,yes,yes,yes,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,R,GT3,A,other,services,home,mother,no,no,no,no,no,no,yes,yes,0,1,0,Needs Improvement
+GP,M,U,GT3,T,teacher,services,home,mother,no,no,yes,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,health,health,reputation,father,yes,yes,no,yes,yes,yes,yes,yes,1,1,0,Needs Improvement
+GP,M,U,LE3,T,teacher,services,course,mother,no,no,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,LE3,A,services,other,home,mother,no,no,yes,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,M,U,LE3,A,teacher,services,home,mother,no,no,no,no,yes,yes,yes,no,1,1,1,Satisfactory
+GP,F,R,LE3,T,at_home,other,reputation,mother,no,yes,yes,yes,yes,yes,no,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,home,mother,yes,no,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,no,yes,no,no,no,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,reputation,father,no,no,yes,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,at_home,other,mother,no,yes,yes,no,yes,yes,yes,no,0,1,1,Excellent
+GP,F,U,GT3,T,services,teacher,reputation,mother,no,yes,yes,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,services,services,reputation,mother,no,no,yes,yes,yes,yes,yes,no,0,1,1,Good
+GP,M,U,LE3,A,teacher,teacher,reputation,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,teacher,other,home,mother,no,yes,yes,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,health,services,reputation,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,LE3,T,services,at_home,reputation,mother,no,no,no,no,yes,yes,yes,yes,1,1,1,Satisfactory
+GP,F,R,LE3,T,services,other,reputation,mother,no,yes,yes,no,yes,yes,no,no,0,1,1,Excellent
+GP,M,R,LE3,T,services,other,reputation,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,health,other,home,mother,no,yes,yes,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,health,other,reputation,other,no,yes,yes,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,LE3,T,other,other,home,other,no,yes,yes,no,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,F,U,GT3,T,other,other,reputation,father,no,yes,yes,no,yes,yes,yes,no,0,0,1,Good
+GP,M,U,LE3,T,teacher,teacher,home,mother,no,yes,yes,no,yes,yes,yes,yes,0,1,1,Excellent
+GP,F,U,LE3,A,health,other,home,mother,no,yes,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,LE3,T,other,teacher,home,father,no,no,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,reputation,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,health,health,reputation,father,no,yes,yes,yes,no,yes,yes,no,0,0,1,Excellent
+GP,M,U,GT3,T,other,other,home,other,no,yes,no,yes,yes,yes,yes,yes,1,1,1,Satisfactory
+GP,F,U,GT3,T,services,at_home,reputation,other,no,yes,yes,yes,yes,yes,yes,no,1,1,1,Satisfactory
+GP,M,U,GT3,A,services,other,course,other,no,no,no,yes,yes,yes,no,no,0,0,1,Excellent
+GP,M,U,GT3,T,teacher,services,reputation,other,no,yes,yes,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+GP,M,R,GT3,T,other,services,reputation,father,no,no,no,yes,yes,yes,no,yes,1,0,1,Satisfactory
+GP,F,U,LE3,T,at_home,other,reputation,other,yes,yes,no,yes,no,yes,yes,no,1,1,1,Satisfactory
+GP,F,U,LE3,T,services,services,home,other,no,no,no,yes,no,yes,no,yes,1,0,0,Needs Improvement
+GP,F,U,GT3,T,at_home,other,other,other,no,yes,no,no,yes,no,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,services,course,other,no,no,no,no,no,yes,yes,no,1,1,1,Satisfactory
+GP,F,U,LE3,T,services,other,reputation,other,no,yes,yes,no,no,yes,yes,yes,1,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,health,home,other,no,no,no,no,no,yes,yes,yes,1,1,1,Satisfactory
+GP,F,R,GT3,T,other,other,reputation,other,no,no,no,no,yes,yes,yes,yes,1,1,1,Satisfactory
+GP,F,U,GT3,T,services,other,course,mother,no,yes,yes,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,GT3,T,other,other,course,mother,no,yes,yes,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,F,R,GT3,T,at_home,services,course,father,no,yes,yes,yes,no,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,teacher,other,course,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,A,services,services,course,mother,no,yes,yes,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,no,yes,no,no,yes,yes,no,yes,0,1,0,Needs Improvement
+GP,F,R,LE3,T,services,services,course,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,services,course,father,no,yes,no,no,no,yes,yes,no,0,0,1,Good
+GP,F,U,LE3,T,at_home,at_home,home,father,no,no,no,no,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,services,reputation,mother,no,no,no,yes,no,yes,yes,no,0,1,1,Excellent
+GP,M,R,GT3,T,services,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,teacher,services,course,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,teacher,teacher,course,mother,no,yes,yes,no,no,yes,yes,yes,0,1,1,Good
+GP,M,U,LE3,T,other,other,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,R,GT3,T,at_home,other,course,father,no,yes,no,no,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,T,services,services,home,mother,no,no,no,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,LE3,T,other,other,home,other,no,no,no,yes,no,yes,yes,yes,0,0,0,Needs Improvement
+GP,F,R,GT3,T,at_home,other,course,mother,no,no,no,yes,yes,yes,no,no,0,0,0,Needs Improvement
+GP,F,U,GT3,T,services,other,course,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Good
+GP,F,R,GT3,A,services,at_home,home,other,no,no,yes,no,yes,yes,no,no,1,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,home,mother,no,yes,yes,no,yes,yes,yes,yes,0,0,0,Needs Improvement
+GP,F,U,LE3,T,services,services,home,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Excellent
+GP,F,R,GT3,A,other,other,home,mother,no,yes,yes,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,services,home,other,no,no,yes,yes,yes,yes,yes,yes,1,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,services,home,father,no,yes,no,yes,yes,yes,yes,no,1,0,0,Needs Improvement
+GP,M,U,LE3,T,services,other,home,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,A,at_home,at_home,home,father,no,yes,no,no,yes,yes,yes,yes,1,0,0,Needs Improvement
+GP,F,U,GT3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,services,other,mother,no,no,no,no,yes,yes,yes,yes,0,1,1,Good
+GP,M,R,GT3,T,teacher,services,course,mother,no,no,no,no,yes,yes,yes,yes,0,1,1,Excellent
+GP,M,U,GT3,T,teacher,other,course,mother,no,yes,yes,no,yes,yes,yes,yes,0,0,0,Needs Improvement
+GP,F,U,GT3,T,health,other,reputation,mother,no,yes,yes,yes,yes,yes,yes,yes,0,0,1,Good
+MS,M,R,GT3,T,other,other,course,mother,no,yes,no,no,no,yes,yes,no,1,1,1,Satisfactory
+MS,M,R,GT3,T,other,services,home,other,no,no,no,no,yes,yes,yes,no,1,1,0,Needs Improvement
+MS,M,U,GT3,T,health,other,course,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,M,U,LE3,T,at_home,services,course,mother,no,no,no,no,yes,no,yes,yes,1,1,0,Needs Improvement
+MS,M,R,GT3,T,other,other,home,other,no,yes,no,no,yes,yes,yes,no,1,1,0,Needs Improvement
+MS,M,R,GT3,T,services,other,home,mother,no,yes,yes,yes,no,yes,yes,yes,0,1,1,Satisfactory
+MS,F,U,GT3,T,services,services,course,father,no,yes,no,no,yes,yes,no,yes,0,0,0,Needs Improvement
+MS,F,R,GT3,T,teacher,services,other,father,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+MS,F,U,LE3,A,services,other,reputation,mother,no,no,no,no,yes,yes,no,yes,0,0,1,Satisfactory
+MS,M,U,LE3,T,other,services,home,father,no,no,no,no,no,yes,yes,yes,0,1,1,Satisfactory
+MS,F,U,LE3,T,at_home,services,course,father,no,no,no,no,yes,yes,yes,no,0,0,1,Excellent
+MS,F,R,LE3,A,at_home,other,course,mother,no,no,no,no,yes,yes,no,yes,0,0,1,Satisfactory
+MS,M,R,LE3,T,at_home,other,other,mother,no,no,no,yes,no,no,no,no,1,0,1,Satisfactory
+MS,F,U,GT3,T,services,services,other,mother,no,yes,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+MS,F,U,LE3,T,at_home,at_home,course,mother,no,yes,yes,yes,yes,yes,yes,yes,0,0,1,Good
+MS,F,R,GT3,T,other,services,course,father,no,no,no,no,no,yes,no,no,0,0,1,Satisfactory
+MS,M,R,GT3,T,at_home,other,course,mother,no,yes,yes,no,yes,yes,no,no,0,1,1,Satisfactory
+MS,M,U,LE3,T,teacher,services,other,mother,no,no,yes,no,yes,yes,yes,yes,0,0,1,Satisfactory
+MS,F,R,GT3,T,other,services,reputation,mother,no,yes,yes,no,yes,yes,yes,yes,1,0,0,Needs Improvement
+MS,F,U,GT3,T,at_home,services,course,father,no,yes,yes,no,yes,yes,yes,yes,0,0,1,Satisfactory
+MS,F,R,GT3,T,other,teacher,other,father,no,yes,yes,no,no,yes,yes,yes,0,1,1,Satisfactory
+MS,F,U,LE3,T,services,services,home,other,no,no,no,yes,yes,yes,no,yes,1,1,0,Needs Improvement
+MS,M,R,LE3,T,at_home,services,other,father,no,yes,yes,yes,yes,no,yes,yes,0,1,1,Satisfactory
+MS,F,U,GT3,T,other,at_home,home,mother,no,no,no,yes,yes,yes,no,yes,0,1,1,Satisfactory
+MS,F,R,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+MS,F,R,LE3,T,other,other,reputation,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Excellent
+MS,F,R,GT3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,U,GT3,T,health,other,course,other,no,yes,yes,no,no,yes,yes,yes,1,1,1,Good
+MS,F,R,LE3,T,teacher,services,course,mother,no,no,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+MS,F,U,GT3,T,other,other,home,mother,no,no,yes,no,yes,yes,yes,yes,0,0,1,Good
+MS,F,R,GT3,T,at_home,other,reputation,mother,no,yes,yes,yes,no,yes,yes,no,0,1,1,Satisfactory
+MS,M,U,GT3,T,teacher,teacher,home,father,no,no,yes,yes,no,yes,yes,no,0,1,1,Good
+MS,M,R,GT3,T,other,other,other,mother,no,no,no,yes,no,yes,yes,yes,0,1,0,Needs Improvement
+MS,M,U,GT3,T,other,services,home,father,no,no,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+MS,M,R,GT3,T,other,services,other,mother,no,no,no,no,yes,yes,no,no,1,0,0,Needs Improvement
+MS,M,R,GT3,T,other,other,home,father,no,no,yes,no,yes,yes,no,no,1,1,0,Needs Improvement
+MS,F,R,GT3,T,at_home,other,other,mother,no,no,yes,no,yes,yes,no,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,teacher,at_home,reputation,mother,no,yes,yes,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+MS,F,R,GT3,T,services,other,course,mother,no,no,no,yes,no,yes,yes,no,1,0,0,Needs Improvement
+MS,F,U,LE3,T,teacher,services,course,mother,no,yes,yes,no,yes,yes,yes,no,0,0,0,Needs Improvement
+MS,F,U,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,no,no,1,0,0,Needs Improvement
+MS,M,U,LE3,A,services,services,course,other,no,yes,yes,no,yes,yes,no,no,1,1,0,Needs Improvement
+MS,M,U,LE3,T,services,services,course,mother,no,no,no,no,no,yes,yes,no,0,1,1,Excellent
+MS,M,R,GT3,T,other,other,course,other,no,no,no,no,no,yes,no,no,1,1,0,Needs Improvement
+MS,M,R,LE3,T,services,other,course,mother,no,no,no,no,no,yes,yes,no,0,0,1,Satisfactory
+MS,M,U,LE3,T,other,at_home,course,father,no,no,no,no,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,F,U,GT3,A,at_home,teacher,course,mother,yes,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,course,father,no,yes,no,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,at_home,other,other,mother,yes,no,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,health,services,home,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Good
+GP,F,U,GT3,T,other,other,home,father,no,yes,no,no,yes,yes,no,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,services,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,LE3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,A,other,teacher,home,mother,yes,yes,no,no,yes,yes,no,no,0,0,1,Satisfactory
+GP,M,U,LE3,A,services,other,home,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,GT3,T,other,other,home,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,teacher,health,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,services,other,reputation,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,health,services,course,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,teacher,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,A,other,other,home,other,no,yes,no,no,yes,yes,yes,yes,0,0,1,Good
+GP,F,U,GT3,T,health,other,home,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Excellent
+GP,F,U,GT3,T,services,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,F,U,GT3,T,other,other,reputation,mother,yes,yes,no,yes,yes,yes,no,no,0,0,1,Good
+GP,M,U,GT3,T,services,services,course,mother,no,yes,yes,yes,yes,yes,yes,no,1,0,0,Needs Improvement
+GP,M,U,LE3,T,health,other,home,father,no,no,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,other,reputation,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,health,health,other,father,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,teacher,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,LE3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,services,health,course,mother,yes,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,services,home,mother,no,yes,no,no,no,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,health,services,other,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,A,services,other,home,mother,yes,yes,yes,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,teacher,teacher,home,mother,no,yes,yes,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,health,services,home,mother,no,yes,yes,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,services,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,R,GT3,T,teacher,at_home,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Good
+GP,M,U,LE3,T,other,other,course,mother,no,no,no,yes,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,mother,no,yes,no,no,no,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,other,father,no,yes,no,yes,yes,yes,no,no,0,1,1,Satisfactory
+GP,M,U,LE3,T,teacher,services,home,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,R,GT3,A,other,teacher,reputation,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,R,GT3,T,services,health,course,mother,yes,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,at_home,other,reputation,mother,yes,yes,no,yes,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,LE3,T,other,other,home,mother,no,yes,no,yes,no,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,LE3,T,teacher,other,home,other,no,yes,no,no,no,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,services,teacher,course,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,services,services,course,father,yes,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,other,at_home,course,father,yes,no,no,yes,yes,yes,yes,no,1,1,1,Satisfactory
+GP,F,U,LE3,A,other,other,course,mother,yes,yes,yes,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,LE3,A,other,services,home,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,health,services,reputation,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,GT3,T,teacher,other,home,mother,no,yes,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,teacher,other,father,yes,yes,no,yes,no,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,services,services,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,health,other,other,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,LE3,A,health,health,other,father,no,no,no,no,yes,yes,no,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,services,services,course,mother,yes,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,A,other,other,other,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,A,other,other,other,mother,no,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,A,services,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,teacher,health,reputation,mother,no,yes,no,yes,yes,yes,no,no,0,1,1,Excellent
+GP,M,U,LE3,T,other,at_home,home,father,yes,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,services,other,course,mother,no,yes,yes,no,yes,yes,yes,no,0,0,1,Excellent
+GP,F,R,GT3,T,health,teacher,other,mother,no,yes,no,yes,yes,yes,no,no,0,0,1,Excellent
+GP,F,U,GT3,T,services,services,course,father,yes,yes,no,yes,no,yes,yes,yes,0,0,1,Excellent
+GP,F,U,LE3,T,other,services,reputation,father,yes,no,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,teacher,health,home,mother,yes,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,services,services,reputation,father,yes,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,LE3,T,teacher,services,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,GT3,A,other,services,reputation,mother,no,yes,no,yes,no,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,other,course,mother,yes,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,LE3,T,health,services,reputation,mother,yes,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,LE3,T,other,other,reputation,father,no,yes,no,no,no,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,other,other,reputation,father,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,course,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,other,other,reputation,mother,yes,yes,no,no,no,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,reputation,mother,no,no,no,yes,yes,yes,no,no,0,0,1,Good
+GP,F,U,GT3,T,other,services,home,mother,yes,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,other,home,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,teacher,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,reputation,mother,no,no,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,mother,yes,yes,no,yes,yes,no,yes,no,1,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,services,course,father,yes,yes,no,yes,no,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,mother,yes,no,no,no,no,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,LE3,T,services,other,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,LE3,T,services,services,home,mother,no,no,yes,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,home,father,no,yes,no,yes,no,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,services,reputation,father,no,no,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,LE3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,services,other,reputation,father,no,no,no,yes,no,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,LE3,A,teacher,health,reputation,mother,no,yes,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,other,reputation,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,LE3,T,other,other,home,father,yes,yes,no,no,yes,yes,no,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,teacher,services,home,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,LE3,T,services,health,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,at_home,other,home,mother,yes,yes,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,R,GT3,T,services,other,reputation,mother,yes,yes,yes,yes,no,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,no,yes,no,no,yes,yes,no,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,reputation,mother,no,no,no,yes,no,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,at_home,course,mother,yes,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,services,services,other,mother,yes,yes,no,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,M,U,GT3,T,services,teacher,other,father,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Excellent
+GP,M,U,GT3,T,services,other,course,mother,no,yes,yes,yes,no,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,other,home,mother,yes,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,A,services,other,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,F,U,GT3,A,other,health,reputation,father,yes,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,yes,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,services,other,home,father,no,yes,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,M,R,GT3,T,other,other,home,father,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,LE3,T,health,health,other,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Good
+GP,M,U,LE3,A,teacher,teacher,course,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,F,R,GT3,T,services,other,reputation,father,yes,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,home,mother,yes,no,no,yes,yes,yes,yes,no,1,1,1,Satisfactory
+GP,M,U,LE3,T,teacher,other,course,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Excellent
+GP,M,R,GT3,T,health,services,reputation,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,teacher,course,father,no,yes,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,other,teacher,reputation,father,no,yes,no,yes,yes,yes,no,no,0,1,1,Excellent
+GP,M,U,GT3,T,other,services,home,father,no,no,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,M,R,GT3,T,other,other,course,father,no,yes,no,yes,yes,yes,yes,no,1,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,reputation,father,no,no,no,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,at_home,services,course,mother,no,no,no,no,no,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,services,services,home,father,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,LE3,T,other,health,course,father,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,health,other,course,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,services,services,home,father,yes,no,no,no,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,LE3,A,other,other,home,mother,yes,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,course,other,no,yes,no,no,no,no,no,no,1,0,1,Satisfactory
+GP,M,R,GT3,T,teacher,teacher,course,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,other,other,course,mother,no,yes,no,no,no,yes,yes,yes,0,1,1,Satisfactory
+GP,F,R,GT3,T,services,teacher,course,father,no,yes,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,other,reputation,mother,no,yes,no,yes,yes,no,yes,yes,1,1,0,Needs Improvement
+GP,F,U,LE3,A,other,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,course,mother,no,yes,no,yes,no,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,LE3,T,other,other,course,father,no,yes,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,A,services,other,course,father,no,no,no,no,yes,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,at_home,other,course,mother,no,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,A,other,other,home,mother,no,no,no,no,yes,yes,no,no,1,1,1,Satisfactory
+GP,M,R,GT3,T,at_home,teacher,course,mother,no,yes,no,no,yes,yes,no,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,at_home,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,M,R,GT3,T,at_home,other,course,mother,no,no,no,no,yes,yes,no,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,no,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,services,services,course,mother,no,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,A,other,services,course,other,no,yes,no,yes,no,yes,yes,yes,0,1,1,Satisfactory
+GP,F,R,GT3,T,other,services,reputation,mother,no,yes,no,yes,yes,yes,no,yes,0,1,1,Satisfactory
+GP,F,U,GT3,A,other,other,course,other,no,yes,no,yes,no,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,LE3,T,services,other,course,mother,no,no,no,no,yes,yes,no,yes,1,0,1,Satisfactory
+GP,F,U,GT3,T,teacher,teacher,course,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,F,R,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,yes,yes,1,0,0,Needs Improvement
+GP,M,U,GT3,T,teacher,services,course,father,yes,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,A,services,services,home,mother,no,no,no,no,no,yes,no,yes,0,1,0,Needs Improvement
+GP,M,U,GT3,T,services,services,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,services,services,reputation,father,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,teacher,services,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,at_home,at_home,course,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,other,services,course,father,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,A,at_home,other,home,mother,no,yes,no,yes,yes,no,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,health,services,home,father,no,yes,no,no,yes,yes,yes,no,1,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,course,mother,no,yes,no,no,no,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,services,course,father,no,no,no,no,no,yes,no,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,teacher,course,mother,no,yes,no,no,yes,no,yes,yes,0,1,0,Needs Improvement
+GP,M,U,LE3,A,services,other,course,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,other,other,course,mother,no,no,no,no,yes,no,yes,yes,1,0,0,Needs Improvement
+GP,M,U,LE3,T,at_home,other,course,mother,no,no,no,yes,yes,yes,no,yes,1,1,1,Satisfactory
+GP,F,R,GT3,T,services,services,reputation,other,no,yes,yes,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,services,at_home,home,mother,no,yes,no,no,yes,no,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,teacher,course,mother,yes,yes,no,no,yes,yes,no,yes,0,0,1,Satisfactory
+GP,M,R,GT3,T,at_home,services,course,mother,yes,no,yes,yes,yes,yes,no,no,0,0,0,Needs Improvement
+GP,M,R,LE3,T,other,other,reputation,mother,no,no,no,no,yes,yes,no,no,1,1,1,Satisfactory
+GP,F,R,GT3,T,at_home,other,course,mother,no,yes,no,yes,no,yes,no,no,1,1,1,Satisfactory
+GP,M,R,GT3,T,at_home,other,course,mother,no,no,no,no,no,yes,no,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,services,course,father,no,yes,no,no,yes,yes,yes,yes,1,0,0,Needs Improvement
+GP,M,U,LE3,T,health,services,course,mother,no,no,no,no,no,yes,yes,no,1,0,1,Satisfactory
+GP,M,R,LE3,T,at_home,other,course,mother,no,no,yes,yes,yes,no,yes,yes,1,1,0,Needs Improvement
+GP,M,R,GT3,T,other,other,course,mother,yes,yes,no,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+GP,M,U,LE3,T,other,other,course,mother,no,no,no,yes,yes,yes,no,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,at_home,services,course,father,no,no,no,no,yes,no,yes,no,1,0,0,Needs Improvement
+GP,M,R,LE3,T,other,services,course,mother,no,no,no,yes,yes,no,no,yes,0,0,0,Needs Improvement
+GP,M,U,GT3,T,services,services,course,mother,no,yes,no,yes,no,no,no,no,1,1,0,Needs Improvement
+GP,M,U,GT3,T,other,other,course,father,no,no,no,no,yes,no,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,health,services,home,father,no,no,no,no,yes,yes,yes,yes,0,0,1,Excellent
+GP,F,U,GT3,T,other,other,home,mother,no,yes,no,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,health,health,reputation,mother,no,yes,no,no,yes,yes,yes,yes,0,0,1,Excellent
+GP,M,U,GT3,T,other,other,course,father,no,yes,no,yes,no,yes,yes,no,1,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Excellent
+GP,M,U,LE3,T,teacher,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,services,home,mother,no,no,no,yes,no,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,LE3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,LE3,T,teacher,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,other,reputation,mother,no,no,no,yes,no,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,other,other,reputation,father,no,no,no,yes,no,yes,yes,no,0,1,1,Satisfactory
+GP,M,R,GT3,T,teacher,services,other,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,course,mother,no,yes,yes,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,other,home,mother,no,yes,yes,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,services,other,home,mother,no,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,services,reputation,father,no,yes,no,yes,yes,yes,no,no,0,0,1,Excellent
+GP,F,U,LE3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,T,other,other,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Excellent
+GP,M,U,GT3,T,services,services,other,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,M,U,GT3,T,services,services,other,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,LE3,T,other,other,course,mother,no,no,no,yes,yes,yes,yes,yes,0,0,1,Excellent
+GP,F,U,GT3,A,health,other,reputation,mother,no,yes,no,no,no,yes,yes,yes,0,1,1,Good
+GP,M,R,GT3,T,at_home,other,home,mother,no,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,services,course,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,services,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,at_home,services,other,other,no,no,no,yes,no,yes,yes,no,0,1,1,Satisfactory
+GP,M,R,GT3,T,services,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,father,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,services,services,course,father,no,no,no,yes,yes,yes,yes,yes,0,1,1,Excellent
+GP,M,U,GT3,T,services,teacher,home,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Good
+GP,M,R,LE3,T,teacher,other,home,father,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,teacher,home,mother,no,yes,no,no,yes,yes,yes,no,1,1,1,Excellent
+GP,F,U,LE3,T,teacher,teacher,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,health,other,home,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,other,other,reputation,mother,yes,yes,no,yes,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,no,yes,no,no,no,yes,no,no,0,0,1,Good
+GP,F,R,GT3,T,other,other,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,R,GT3,T,services,services,reputation,mother,no,yes,no,yes,no,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,services,home,mother,no,yes,yes,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+GP,F,U,GT3,A,services,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,teacher,other,other,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,T,at_home,other,home,mother,no,yes,no,no,yes,yes,no,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,teacher,other,reputation,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,reputation,other,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,LE3,T,services,other,home,mother,no,yes,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,A,other,other,reputation,mother,yes,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,services,other,home,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,R,LE3,T,services,other,other,mother,no,yes,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,LE3,T,other,other,reputation,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,other,other,reputation,mother,no,no,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,LE3,T,services,health,home,father,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,home,father,no,yes,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,at_home,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,at_home,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,reputation,mother,no,yes,no,yes,yes,yes,no,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,teacher,other,mother,yes,no,no,no,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,other,other,home,mother,no,yes,yes,no,yes,yes,yes,no,1,1,1,Satisfactory
+GP,F,U,GT3,T,teacher,services,home,mother,no,yes,no,yes,no,yes,yes,no,0,1,1,Excellent
+GP,F,R,GT3,T,other,other,reputation,mother,no,no,no,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+GP,F,U,GT3,T,other,other,course,mother,no,no,no,yes,no,yes,yes,no,0,0,1,Excellent
+GP,M,U,LE3,T,services,services,reputation,father,no,yes,no,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,at_home,other,course,mother,yes,yes,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,A,other,other,course,mother,no,no,no,yes,yes,yes,yes,yes,0,0,1,Excellent
+GP,F,U,LE3,T,health,other,reputation,father,no,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,R,GT3,T,other,other,course,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,teacher,teacher,reputation,mother,yes,yes,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,health,other,reputation,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,LE3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,M,U,GT3,T,at_home,other,reputation,mother,no,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,LE3,T,other,other,home,father,no,no,no,yes,no,yes,yes,yes,0,0,1,Excellent
+GP,F,U,GT3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,A,other,other,home,mother,no,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,LE3,A,services,other,course,mother,no,yes,no,no,yes,yes,yes,no,1,1,1,Satisfactory
+GP,F,U,LE3,T,at_home,services,course,mother,no,yes,no,no,no,yes,yes,yes,1,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,no,no,no,no,yes,no,yes,no,1,1,0,Needs Improvement
+GP,M,U,GT3,T,other,at_home,course,other,no,yes,no,yes,no,no,yes,yes,1,1,0,Needs Improvement
+GP,M,U,GT3,T,teacher,teacher,course,mother,no,yes,no,yes,no,yes,yes,no,0,1,0,Needs Improvement
+GP,F,U,GT3,T,other,other,course,father,no,no,no,yes,yes,yes,no,no,0,1,1,Good
+GP,F,U,LE3,T,at_home,at_home,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,no,no,no,no,yes,no,yes,no,0,1,1,Satisfactory
+GP,F,R,GT3,T,at_home,services,course,mother,no,no,no,yes,yes,yes,no,no,0,0,1,Satisfactory
+GP,F,R,LE3,A,other,other,course,other,no,yes,no,no,yes,yes,yes,no,1,1,0,Needs Improvement
+GP,M,U,GT3,T,other,services,reputation,father,no,no,no,no,yes,no,yes,no,0,1,0,Needs Improvement
+GP,F,U,LE3,A,other,other,home,mother,no,yes,no,no,no,no,yes,no,1,1,1,Satisfactory
+GP,F,R,LE3,T,at_home,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Good
+GP,F,U,LE3,A,teacher,other,course,mother,no,yes,no,yes,yes,yes,no,no,0,1,1,Good
+GP,M,U,LE3,T,health,other,course,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,M,R,LE3,A,teacher,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,teacher,other,course,mother,no,no,no,yes,no,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,services,services,course,mother,no,no,yes,yes,yes,yes,yes,no,0,1,1,Good
+GP,F,U,GT3,T,teacher,services,course,mother,no,yes,yes,no,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,R,GT3,T,other,other,home,father,no,no,no,no,no,yes,yes,yes,0,0,1,Good
+GP,F,U,GT3,T,services,other,home,mother,no,yes,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,course,mother,yes,no,no,no,no,yes,no,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,other,no,yes,no,no,no,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,course,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Excellent
+GP,F,U,GT3,T,other,services,course,father,no,yes,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,course,father,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,services,services,other,mother,no,no,no,no,no,no,yes,yes,1,1,0,Needs Improvement
+GP,M,R,LE3,T,other,services,course,mother,no,yes,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,other,other,other,mother,no,no,no,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,services,other,course,mother,no,no,no,no,yes,no,yes,no,0,1,0,Needs Improvement
+GP,M,U,GT3,T,at_home,other,reputation,other,yes,yes,no,no,no,yes,yes,no,1,1,1,Satisfactory
+GP,M,U,GT3,T,services,services,other,mother,no,no,no,no,no,no,yes,no,1,1,0,Needs Improvement
+GP,M,R,GT3,T,other,other,course,mother,no,no,no,yes,no,yes,no,no,0,0,1,Satisfactory
+GP,M,R,GT3,T,other,other,course,mother,no,no,no,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,health,other,course,mother,no,yes,no,yes,yes,yes,yes,no,1,0,1,Satisfactory
+GP,F,U,LE3,A,other,other,course,mother,no,yes,no,no,no,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,LE3,T,teacher,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,F,U,GT3,T,services,services,home,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,services,other,course,mother,no,no,no,yes,no,no,yes,no,1,1,1,Satisfactory
+GP,F,R,GT3,T,other,other,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,F,U,LE3,T,other,at_home,home,mother,no,yes,no,no,no,yes,no,no,0,1,1,Good
+GP,F,R,GT3,T,other,other,home,mother,yes,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+GP,M,U,LE3,A,services,at_home,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,other,other,home,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,R,GT3,T,other,services,other,mother,no,no,no,no,no,no,no,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,services,services,course,father,no,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,R,GT3,T,other,other,course,other,no,yes,yes,yes,yes,no,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,services,other,home,father,no,yes,no,no,yes,yes,yes,yes,0,0,1,Good
+GP,M,U,GT3,T,teacher,other,course,mother,no,yes,no,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,M,R,GT3,T,other,other,course,mother,no,no,no,yes,no,yes,no,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,home,mother,no,no,no,yes,no,yes,no,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,services,home,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,other,home,father,no,no,no,no,yes,no,yes,no,0,1,0,Needs Improvement
+GP,M,R,LE3,A,other,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Excellent
+GP,M,U,GT3,T,services,other,other,mother,no,no,no,yes,yes,yes,yes,yes,0,0,1,Good
+GP,F,R,GT3,T,teacher,other,reputation,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,M,U,GT3,T,health,other,reputation,father,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,F,R,GT3,T,other,other,reputation,mother,no,yes,no,no,yes,no,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,services,home,other,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,other,services,reputation,father,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Excellent
+GP,F,U,LE3,T,other,other,home,mother,no,yes,no,no,no,yes,no,no,0,0,1,Satisfactory
+GP,M,R,GT3,T,at_home,at_home,home,mother,no,yes,no,yes,no,yes,no,yes,0,0,1,Excellent
+GP,F,U,GT3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,T,at_home,health,reputation,mother,no,yes,no,no,yes,yes,yes,yes,0,1,1,Excellent
+GP,F,U,LE3,T,services,other,course,mother,yes,yes,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,R,GT3,A,other,services,home,mother,no,no,no,no,no,no,yes,yes,0,1,1,Satisfactory
+GP,M,U,GT3,T,teacher,services,home,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,GT3,T,health,health,reputation,father,yes,yes,no,yes,yes,yes,yes,yes,1,0,1,Satisfactory
+GP,F,U,GT3,T,other,services,reputation,father,no,yes,no,no,yes,yes,yes,yes,0,1,1,Good
+GP,F,R,GT3,T,services,services,reputation,father,yes,yes,no,no,yes,no,yes,no,1,0,1,Satisfactory
+GP,M,U,LE3,T,teacher,services,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,at_home,other,home,other,no,no,no,no,no,no,yes,no,0,1,1,Satisfactory
+GP,M,U,LE3,A,services,other,home,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,M,U,LE3,A,teacher,services,home,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,R,LE3,T,at_home,other,reputation,mother,no,yes,no,yes,yes,yes,no,no,0,0,1,Excellent
+GP,F,U,GT3,T,other,other,home,mother,yes,no,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,no,yes,no,no,no,yes,yes,no,0,1,1,Good
+GP,F,U,GT3,T,other,other,reputation,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,M,U,GT3,T,other,other,reputation,father,no,no,no,no,no,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,at_home,other,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+GP,F,U,GT3,T,services,teacher,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,services,services,reputation,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,LE3,A,teacher,teacher,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,GT3,T,teacher,other,home,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Excellent
+GP,F,U,GT3,T,health,services,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+GP,F,R,LE3,T,services,other,reputation,mother,no,yes,no,no,yes,yes,no,no,0,0,1,Excellent
+GP,M,R,LE3,T,services,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,health,other,home,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,health,other,reputation,other,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,other,other,home,other,no,yes,no,no,yes,yes,yes,yes,0,0,1,Good
+GP,F,U,GT3,T,other,other,reputation,father,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,LE3,T,teacher,teacher,home,mother,no,yes,no,no,yes,yes,yes,yes,0,0,1,Excellent
+GP,F,U,LE3,A,health,other,home,mother,no,yes,yes,no,yes,yes,yes,yes,0,0,1,Good
+GP,M,U,LE3,T,other,teacher,home,father,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,R,GT3,T,services,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+GP,F,U,GT3,T,other,other,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+GP,F,U,GT3,T,health,health,reputation,father,no,yes,no,yes,no,yes,yes,no,0,0,1,Excellent
+GP,M,R,LE3,T,at_home,services,course,mother,no,no,no,yes,yes,yes,yes,yes,1,0,1,Satisfactory
+GP,M,U,GT3,A,services,other,course,other,no,no,no,yes,yes,yes,no,no,1,0,1,Good
+GP,M,R,GT3,T,other,services,reputation,father,no,no,no,yes,yes,yes,no,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,teacher,home,mother,yes,yes,no,no,no,yes,no,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,other,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,other,other,course,father,no,no,no,yes,yes,yes,yes,yes,0,0,1,Good
+GP,F,R,GT3,T,teacher,teacher,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,F,U,GT3,T,other,other,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Excellent
+GP,F,U,LE3,T,health,services,course,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Good
+GP,F,R,GT3,T,at_home,services,course,father,no,yes,no,yes,no,yes,yes,no,0,0,1,Excellent
+GP,F,U,GT3,T,at_home,other,course,father,no,yes,no,no,yes,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,health,other,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+GP,F,U,GT3,T,teacher,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,T,health,health,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,F,U,GT3,A,services,services,course,mother,no,yes,no,no,yes,yes,yes,yes,0,1,1,Excellent
+GP,F,U,LE3,A,services,other,home,mother,yes,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,LE3,T,other,other,home,father,no,no,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,LE3,T,other,other,reputation,father,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,other,no,no,no,yes,yes,no,no,yes,0,1,1,Satisfactory
+GP,F,U,LE3,A,other,other,course,other,no,yes,no,no,no,yes,yes,yes,1,0,0,Needs Improvement
+GP,F,U,GT3,T,other,other,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,other,other,course,mother,no,yes,no,no,yes,yes,no,yes,0,1,1,Satisfactory
+GP,F,R,LE3,T,services,services,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,services,course,father,no,yes,no,no,no,yes,yes,no,0,0,1,Excellent
+GP,F,U,LE3,T,at_home,at_home,home,father,no,no,no,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,other,other,home,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Good
+GP,M,U,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,GT3,T,other,services,reputation,mother,no,no,no,yes,no,yes,yes,no,0,0,1,Excellent
+GP,M,R,GT3,T,services,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,teacher,services,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,F,U,GT3,T,teacher,teacher,course,mother,no,yes,no,no,no,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,T,at_home,other,course,mother,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,other,other,course,mother,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,R,GT3,T,at_home,services,home,other,no,yes,no,no,no,yes,no,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,at_home,other,course,mother,no,no,no,yes,yes,yes,no,yes,0,0,1,Satisfactory
+GP,F,R,GT3,T,at_home,other,course,father,no,yes,no,no,yes,yes,yes,yes,0,0,1,Good
+GP,M,U,GT3,T,other,other,reputation,mother,no,no,no,no,no,yes,yes,no,0,1,1,Good
+GP,F,U,GT3,T,services,services,home,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,LE3,T,other,other,home,other,no,no,no,yes,no,yes,yes,yes,0,0,1,Satisfactory
+GP,F,R,GT3,T,at_home,other,course,mother,no,no,no,yes,yes,yes,no,no,0,1,1,Good
+GP,F,U,GT3,T,services,other,course,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Good
+GP,F,U,GT3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,yes,0,0,1,Good
+GP,F,U,LE3,T,services,services,home,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Good
+GP,F,R,GT3,A,other,other,home,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,GT3,T,teacher,services,home,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+GP,M,U,LE3,T,services,other,home,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Excellent
+GP,F,U,GT3,A,at_home,at_home,home,father,no,yes,no,no,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,GT3,T,other,services,other,mother,no,no,no,no,yes,yes,yes,yes,0,1,1,Excellent
+GP,M,R,GT3,T,teacher,services,course,mother,no,no,no,no,yes,yes,yes,yes,0,1,1,Excellent
+GP,M,U,GT3,T,teacher,other,course,mother,no,yes,no,no,yes,yes,yes,yes,0,0,1,Good
+GP,F,U,GT3,T,health,other,reputation,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+GP,F,U,GT3,T,services,other,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,T,services,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Excellent
+GP,F,U,LE3,A,at_home,other,home,other,no,no,no,no,yes,no,yes,no,1,1,1,Satisfactory
+GP,F,U,GT3,T,other,at_home,home,mother,no,yes,yes,no,yes,yes,yes,yes,1,1,1,Satisfactory
+GP,F,U,LE3,T,other,other,reputation,other,no,no,yes,yes,yes,yes,yes,no,1,0,1,Satisfactory
+GP,M,U,LE3,T,services,services,reputation,mother,no,yes,no,yes,no,no,yes,no,0,1,1,Satisfactory
+GP,M,U,LE3,A,other,other,reputation,other,no,no,no,yes,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,T,services,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,U,LE3,A,health,other,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Good
+GP,F,U,LE3,T,teacher,other,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Excellent
+GP,M,R,LE3,T,at_home,other,course,other,no,yes,no,yes,yes,no,yes,yes,1,1,1,Satisfactory
+GP,F,R,GT3,T,other,other,reputation,other,no,no,no,no,yes,yes,yes,yes,0,1,1,Good
+GP,F,U,GT3,T,teacher,other,home,other,no,yes,no,no,yes,yes,yes,yes,1,1,1,Satisfactory
+GP,M,U,LE3,A,other,other,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Excellent
+GP,F,U,GT3,T,at_home,other,reputation,father,no,yes,no,no,yes,yes,yes,yes,0,1,1,Excellent
+GP,M,R,GT3,T,other,services,reputation,father,no,no,no,no,yes,yes,yes,no,0,1,1,Good
+GP,M,U,GT3,T,other,other,reputation,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+GP,F,U,LE3,A,services,other,reputation,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Excellent
+GP,F,U,GT3,T,other,other,reputation,mother,yes,no,no,no,yes,yes,yes,yes,1,1,1,Satisfactory
+GP,F,U,GT3,T,services,other,home,mother,no,yes,no,yes,no,yes,yes,yes,0,1,1,Satisfactory
+MS,F,U,GT3,T,at_home,other,other,father,no,yes,no,no,yes,no,yes,yes,0,1,1,Satisfactory
+MS,F,R,GT3,T,other,other,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,at_home,services,other,mother,no,yes,no,no,yes,yes,no,yes,1,1,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+MS,F,R,GT3,T,at_home,services,course,mother,no,no,no,no,yes,yes,no,no,0,0,1,Excellent
+MS,F,R,LE3,T,at_home,other,home,mother,no,no,no,no,yes,no,no,no,0,0,0,Needs Improvement
+MS,M,R,LE3,A,at_home,other,home,mother,no,yes,no,no,yes,yes,no,no,0,1,1,Satisfactory
+MS,M,U,GT3,A,other,other,other,mother,yes,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,course,father,no,no,no,no,yes,yes,no,yes,1,0,1,Satisfactory
+MS,F,R,GT3,T,other,other,other,father,no,yes,no,no,no,no,yes,no,1,0,0,Needs Improvement
+MS,F,R,GT3,T,teacher,other,course,mother,no,no,no,no,yes,yes,yes,yes,0,0,1,Good
+MS,F,U,LE3,A,at_home,other,reputation,mother,no,no,no,yes,no,no,no,yes,0,1,1,Satisfactory
+MS,F,R,LE3,T,at_home,services,reputation,father,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,R,LE3,T,other,services,course,mother,no,yes,no,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+MS,F,R,GT3,T,other,other,other,mother,no,yes,no,yes,yes,yes,no,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,other,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,other,services,course,father,no,no,no,no,no,yes,yes,no,0,0,1,Excellent
+MS,M,U,GT3,T,at_home,services,home,mother,no,yes,no,yes,yes,yes,no,yes,0,0,0,Needs Improvement
+MS,M,U,GT3,T,other,other,home,mother,no,no,yes,no,no,yes,yes,no,0,1,0,Needs Improvement
+MS,M,R,LE3,T,health,services,reputation,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+MS,M,R,LE3,T,health,services,reputation,father,no,yes,no,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+MS,M,R,GT3,T,other,health,other,mother,no,no,no,no,no,yes,no,no,0,1,1,Satisfactory
+MS,M,R,GT3,T,other,other,course,mother,no,yes,no,yes,yes,yes,no,yes,0,1,0,Needs Improvement
+MS,M,U,LE3,T,at_home,at_home,reputation,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+MS,M,R,GT3,T,other,other,other,mother,no,no,no,yes,yes,no,no,yes,0,1,0,Needs Improvement
+MS,F,R,GT3,T,teacher,teacher,course,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Excellent
+MS,F,R,GT3,T,other,services,course,mother,no,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+MS,F,R,GT3,T,other,services,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Good
+MS,M,R,GT3,T,other,other,course,father,no,no,no,no,yes,yes,no,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,other,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+MS,F,U,GT3,T,other,services,course,mother,no,yes,no,no,yes,yes,no,no,1,0,0,Needs Improvement
+MS,F,U,GT3,T,other,services,course,mother,no,yes,no,no,yes,yes,no,no,1,1,0,Needs Improvement
+MS,F,U,GT3,T,at_home,other,home,mother,yes,yes,no,no,no,yes,yes,no,0,0,0,Needs Improvement
+MS,F,U,GT3,T,at_home,other,course,father,no,yes,no,no,no,yes,no,yes,0,0,1,Good
+MS,M,R,LE3,T,at_home,services,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+MS,F,R,GT3,T,other,other,home,father,no,yes,no,no,no,yes,yes,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,other,father,yes,yes,no,no,yes,yes,no,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,home,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,other,mother,no,no,no,yes,yes,yes,yes,yes,0,0,1,Good
+MS,F,R,GT3,T,at_home,at_home,course,father,no,yes,no,no,yes,yes,no,no,0,0,1,Good
+MS,F,R,LE3,T,other,other,other,father,yes,yes,no,no,yes,yes,no,no,0,0,1,Satisfactory
+MS,M,R,GT3,T,at_home,other,other,father,no,no,no,yes,yes,yes,no,no,0,1,1,Satisfactory
+MS,F,U,GT3,T,other,other,course,father,no,yes,no,yes,yes,yes,yes,yes,1,1,0,Needs Improvement
+MS,M,U,GT3,T,other,services,home,mother,no,yes,no,no,yes,yes,no,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,other,services,course,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+MS,M,U,GT3,T,health,other,reputation,mother,no,no,no,no,yes,yes,no,no,0,0,1,Satisfactory
+MS,M,U,GT3,T,other,teacher,course,father,no,yes,no,yes,yes,yes,no,yes,0,0,1,Satisfactory
+MS,F,R,GT3,T,services,other,reputation,mother,no,yes,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,course,mother,no,yes,no,yes,no,yes,no,no,1,0,1,Satisfactory
+MS,F,R,LE3,T,other,other,home,father,no,yes,no,yes,yes,yes,no,yes,0,0,1,Excellent
+MS,M,U,LE3,T,at_home,services,course,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+MS,M,R,LE3,T,at_home,other,reputation,father,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,U,GT3,T,other,services,course,mother,no,yes,no,yes,yes,yes,no,no,0,0,1,Good
+MS,F,R,LE3,T,other,other,home,mother,no,yes,no,no,yes,yes,yes,yes,0,0,0,Needs Improvement
+MS,M,U,GT3,T,services,services,course,father,no,yes,no,yes,no,yes,yes,no,0,1,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,course,father,yes,yes,no,no,yes,yes,no,no,1,0,0,Needs Improvement
+MS,F,U,GT3,T,other,at_home,course,mother,no,yes,no,yes,yes,no,no,no,0,1,1,Satisfactory
+MS,F,U,GT3,T,at_home,services,course,other,no,no,no,no,yes,no,yes,yes,1,0,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,course,mother,no,yes,no,yes,yes,no,no,yes,0,0,1,Satisfactory
+MS,F,R,LE3,T,at_home,other,course,mother,no,yes,no,no,yes,no,no,yes,0,0,0,Needs Improvement
+MS,F,R,GT3,T,other,other,course,father,no,yes,no,no,yes,no,yes,no,0,0,1,Satisfactory
+MS,F,U,LE3,A,other,other,home,mother,no,yes,no,no,yes,no,no,no,0,1,0,Needs Improvement
+MS,F,R,GT3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,U,GT3,T,other,services,course,father,no,yes,yes,yes,no,yes,yes,no,1,0,1,Satisfactory
+MS,F,R,LE3,A,other,other,course,other,no,yes,no,no,no,no,no,yes,1,1,1,Satisfactory
+MS,F,U,GT3,T,at_home,services,course,mother,no,no,no,yes,yes,no,no,yes,1,1,0,Needs Improvement
+MS,M,R,GT3,T,other,other,home,mother,no,no,no,yes,yes,no,yes,no,1,0,1,Satisfactory
+MS,F,R,GT3,T,at_home,at_home,course,mother,no,no,no,no,no,no,yes,yes,1,1,1,Satisfactory
+MS,F,U,GT3,T,other,other,course,other,no,yes,no,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+MS,F,R,GT3,A,health,other,course,mother,no,no,no,no,no,yes,no,yes,0,0,1,Satisfactory
+MS,F,U,GT3,T,other,at_home,course,father,no,no,no,yes,no,yes,no,no,0,1,1,Satisfactory
+MS,F,R,LE3,T,at_home,other,course,mother,no,no,no,yes,yes,no,yes,no,0,0,0,Needs Improvement
+MS,F,U,GT3,T,other,other,reputation,mother,no,no,no,yes,yes,no,yes,yes,0,0,1,Satisfactory
+MS,F,R,LE3,T,services,services,home,mother,no,yes,no,yes,yes,yes,yes,yes,0,0,1,Good
+MS,M,U,GT3,T,services,at_home,course,mother,no,yes,yes,yes,yes,yes,no,no,1,0,1,Satisfactory
+MS,F,U,GT3,T,other,services,course,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+MS,F,U,GT3,T,services,other,course,mother,no,yes,yes,yes,yes,yes,no,yes,0,0,1,Excellent
+MS,M,U,GT3,T,other,other,course,father,no,yes,no,yes,yes,no,yes,yes,1,1,0,Needs Improvement
+MS,M,U,LE3,T,other,other,course,father,no,no,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+MS,M,R,LE3,T,services,services,other,mother,no,yes,no,no,yes,yes,no,no,1,0,0,Needs Improvement
+MS,F,U,GT3,T,other,other,course,other,yes,yes,no,yes,yes,yes,yes,no,0,0,1,Good
+MS,F,U,LE3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,reputation,mother,no,yes,no,yes,no,yes,yes,yes,0,0,1,Satisfactory
+MS,F,U,GT3,T,at_home,services,other,mother,no,no,no,yes,yes,yes,yes,yes,1,1,1,Satisfactory
+MS,F,U,LE3,T,other,services,course,father,no,yes,no,no,yes,yes,no,yes,0,0,1,Satisfactory
+MS,M,R,GT3,T,other,other,course,mother,no,yes,no,no,no,yes,yes,no,1,0,0,Needs Improvement
+MS,F,R,LE3,T,at_home,other,course,father,no,yes,no,no,yes,yes,no,no,0,0,1,Excellent
+MS,F,R,GT3,T,other,other,reputation,mother,no,yes,no,yes,yes,yes,no,no,0,0,1,Excellent
+MS,F,U,GT3,A,other,other,other,mother,no,no,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,other,mother,no,yes,no,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+MS,F,U,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+MS,F,U,GT3,T,services,at_home,course,mother,no,no,no,no,yes,yes,yes,no,0,0,0,Needs Improvement
+MS,F,U,LE3,T,other,at_home,reputation,mother,yes,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+MS,F,R,GT3,T,health,teacher,reputation,father,no,no,no,yes,no,yes,yes,yes,0,0,1,Excellent
+MS,F,R,LE3,T,other,other,reputation,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Good
+MS,F,U,GT3,A,other,services,reputation,father,no,yes,no,no,yes,yes,yes,no,1,1,0,Needs Improvement
+MS,M,R,GT3,T,other,services,reputation,mother,no,no,no,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+MS,F,U,LE3,T,at_home,other,other,mother,no,yes,no,no,yes,yes,yes,no,0,1,0,Needs Improvement
+MS,F,R,GT3,T,at_home,services,other,mother,no,yes,no,yes,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,U,GT3,T,health,health,course,mother,no,yes,no,no,yes,yes,yes,yes,0,1,0,Needs Improvement
+MS,M,U,LE3,T,at_home,health,home,mother,no,yes,no,yes,yes,no,yes,yes,0,0,0,Needs Improvement
+MS,F,R,LE3,T,at_home,other,other,mother,no,yes,no,no,no,yes,no,no,0,0,0,Needs Improvement
+MS,M,U,LE3,T,other,services,home,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+MS,F,R,GT3,T,other,other,other,mother,no,no,no,no,yes,yes,yes,yes,0,0,1,Good
+MS,M,U,LE3,T,services,services,other,mother,no,no,no,no,yes,yes,no,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,other,mother,no,yes,yes,no,yes,yes,yes,no,0,1,0,Needs Improvement
+MS,F,U,LE3,T,services,services,other,father,no,yes,no,no,yes,yes,no,no,0,0,1,Satisfactory
+MS,M,U,GT3,T,services,services,home,mother,no,yes,no,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+MS,M,U,GT3,T,at_home,services,other,mother,no,no,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+MS,M,U,GT3,T,health,services,other,mother,no,no,no,no,no,yes,yes,yes,0,0,0,Needs Improvement
+MS,F,U,LE3,T,other,services,other,mother,no,no,no,no,yes,yes,yes,yes,0,0,1,Excellent
+MS,M,U,LE3,T,teacher,health,other,father,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,M,R,GT3,T,other,services,course,mother,no,yes,no,yes,yes,yes,no,no,0,1,1,Satisfactory
+MS,M,U,LE3,A,other,other,reputation,mother,no,yes,no,yes,yes,yes,no,no,0,1,1,Good
+MS,M,U,LE3,A,services,services,course,mother,no,no,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+MS,F,R,LE3,T,other,other,course,mother,no,yes,no,no,no,yes,no,yes,0,0,1,Satisfactory
+MS,F,U,LE3,T,other,other,home,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Satisfactory
+MS,F,U,GT3,T,at_home,other,home,mother,no,no,no,no,yes,yes,no,yes,0,1,1,Satisfactory
+MS,F,R,GT3,T,other,other,other,mother,yes,no,yes,no,yes,yes,no,no,0,0,1,Satisfactory
+MS,F,U,GT3,T,teacher,services,course,mother,no,yes,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+MS,M,R,GT3,T,health,other,course,father,no,no,no,yes,yes,yes,yes,yes,1,0,0,Needs Improvement
+MS,M,R,LE3,T,other,other,course,father,no,no,no,yes,yes,yes,no,yes,0,0,1,Satisfactory
+MS,M,U,GT3,T,services,other,other,mother,no,yes,no,yes,no,yes,yes,yes,1,1,0,Needs Improvement
+MS,F,U,GT3,T,health,health,course,father,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+MS,M,R,LE3,T,other,at_home,other,father,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,U,GT3,A,at_home,at_home,other,mother,no,no,no,yes,yes,yes,yes,yes,0,0,1,Satisfactory
+MS,F,R,GT3,T,other,other,course,mother,yes,yes,no,no,no,yes,yes,no,0,0,1,Excellent
+MS,M,U,LE3,A,other,services,course,father,no,yes,no,no,no,yes,yes,yes,0,0,1,Satisfactory
+MS,M,U,GT3,T,other,other,other,father,no,yes,yes,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,M,U,GT3,T,other,other,other,mother,no,yes,no,yes,yes,no,yes,no,1,0,1,Satisfactory
+MS,M,U,LE3,A,other,other,home,mother,no,no,no,no,yes,yes,no,yes,0,1,1,Satisfactory
+MS,F,R,GT3,T,at_home,at_home,course,father,no,yes,no,yes,yes,no,yes,yes,0,1,1,Satisfactory
+MS,F,R,GT3,T,other,other,home,father,yes,yes,no,no,no,yes,yes,yes,0,1,1,Satisfactory
+MS,M,R,LE3,T,other,at_home,course,mother,no,no,no,no,yes,yes,no,no,0,1,1,Satisfactory
+MS,F,R,GT3,T,other,other,course,mother,no,yes,no,yes,no,yes,yes,yes,1,0,1,Satisfactory
+MS,M,R,GT3,T,other,other,course,mother,no,no,no,yes,yes,no,no,yes,0,0,1,Satisfactory
+MS,M,R,GT3,T,at_home,at_home,course,other,yes,yes,no,no,yes,yes,no,no,1,0,1,Satisfactory
+MS,M,R,GT3,T,other,services,course,mother,no,yes,no,yes,no,yes,yes,yes,0,0,1,Satisfactory
+MS,M,U,LE3,T,at_home,at_home,course,mother,no,yes,no,yes,yes,yes,no,no,0,1,1,Satisfactory
+MS,F,R,LE3,T,other,services,course,father,no,no,no,yes,yes,yes,no,yes,0,0,1,Satisfactory
+MS,M,U,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,no,yes,1,0,0,Needs Improvement
+MS,M,R,GT3,T,services,other,course,father,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,M,R,LE3,T,at_home,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+MS,M,R,GT3,T,services,other,course,other,no,yes,no,no,yes,no,yes,yes,1,0,0,Needs Improvement
+MS,M,R,GT3,T,services,other,course,mother,no,no,no,no,yes,no,yes,no,1,0,0,Needs Improvement
+MS,M,U,GT3,T,at_home,services,course,mother,no,no,no,yes,yes,yes,no,no,1,1,0,Needs Improvement
+MS,M,U,GT3,T,at_home,at_home,course,mother,no,yes,no,yes,yes,no,yes,no,1,1,0,Needs Improvement
+MS,M,R,GT3,T,services,services,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,0,Needs Improvement
+MS,M,U,GT3,T,at_home,other,course,other,no,no,no,yes,no,no,yes,yes,1,1,0,Needs Improvement
+MS,F,U,GT3,A,services,at_home,course,mother,no,yes,no,yes,yes,yes,no,yes,1,1,0,Needs Improvement
+MS,F,U,GT3,T,other,at_home,course,mother,no,yes,no,yes,yes,yes,no,no,0,1,1,Satisfactory
+MS,M,R,GT3,T,other,other,course,other,no,yes,no,no,yes,no,yes,yes,1,1,1,Satisfactory
+MS,F,R,GT3,A,services,services,course,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+MS,M,R,GT3,T,other,other,course,mother,no,yes,no,no,no,yes,yes,no,0,1,1,Satisfactory
+MS,M,R,GT3,T,other,services,home,other,no,no,no,no,yes,yes,yes,no,1,1,1,Satisfactory
+MS,M,U,GT3,T,health,other,course,mother,no,yes,no,no,yes,yes,yes,no,1,1,1,Satisfactory
+MS,M,U,LE3,T,at_home,services,course,mother,no,no,no,no,yes,no,yes,yes,0,0,0,Needs Improvement
+MS,M,R,GT3,T,other,other,home,other,no,yes,no,no,yes,yes,yes,no,1,1,1,Satisfactory
+MS,F,U,GT3,A,at_home,other,course,mother,no,yes,no,no,yes,yes,no,no,1,0,0,Needs Improvement
+MS,F,U,LE3,A,at_home,other,course,mother,no,yes,no,no,yes,no,no,no,0,0,0,Needs Improvement
+MS,F,R,GT3,T,other,other,other,mother,no,no,no,no,yes,no,yes,yes,1,0,0,Needs Improvement
+MS,F,R,GT3,T,at_home,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,R,LE3,A,other,at_home,course,other,no,yes,yes,no,yes,no,no,no,0,1,0,Needs Improvement
+MS,F,U,GT3,T,teacher,services,home,mother,yes,yes,no,yes,yes,yes,yes,no,0,0,0,Needs Improvement
+MS,F,R,LE3,T,services,services,course,mother,no,yes,no,yes,yes,yes,yes,no,1,1,0,Needs Improvement
+MS,F,U,GT3,T,health,at_home,course,mother,no,yes,no,no,yes,yes,no,yes,0,0,0,Needs Improvement
+MS,F,U,LE3,T,at_home,other,course,father,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,U,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,no,yes,1,1,0,Needs Improvement
+MS,F,U,GT3,T,services,at_home,reputation,father,no,no,no,yes,no,yes,yes,no,0,0,1,Good
+MS,F,U,GT3,T,services,services,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,U,LE3,A,at_home,other,reputation,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Good
+MS,F,U,GT3,T,teacher,teacher,reputation,mother,no,no,no,yes,no,yes,yes,no,0,0,1,Excellent
+MS,M,U,LE3,T,services,other,reputation,mother,no,yes,no,yes,yes,yes,yes,no,0,1,1,Excellent
+MS,F,U,GT3,T,other,other,course,mother,no,yes,no,no,yes,yes,yes,no,0,0,1,Excellent
+MS,F,R,GT3,T,at_home,other,course,mother,no,no,no,yes,yes,yes,no,yes,1,0,0,Needs Improvement
+MS,M,U,LE3,T,at_home,services,home,mother,no,yes,no,no,no,yes,no,no,0,1,1,Satisfactory
+MS,M,R,GT3,T,at_home,services,other,mother,no,yes,yes,yes,yes,yes,yes,yes,0,1,1,Good
+MS,M,R,GT3,T,other,services,other,father,no,no,no,no,no,no,no,no,0,1,1,Good
+MS,F,U,GT3,T,other,other,course,mother,no,yes,no,no,no,yes,yes,yes,0,1,1,Satisfactory
+MS,F,U,LE3,T,services,services,course,father,no,no,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+MS,F,R,LE3,A,teacher,other,reputation,mother,no,no,no,yes,yes,yes,yes,yes,0,0,0,Needs Improvement
+MS,F,U,GT3,T,at_home,services,course,mother,no,no,no,no,yes,no,no,no,1,0,1,Satisfactory
+MS,F,U,GT3,T,at_home,services,other,father,no,no,no,no,yes,no,no,no,1,0,0,Needs Improvement
+MS,F,U,GT3,T,teacher,other,course,father,no,no,no,no,yes,yes,yes,yes,0,0,1,Excellent
+MS,F,R,LE3,A,services,other,reputation,mother,no,no,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+MS,F,U,LE3,A,at_home,services,course,mother,no,no,no,no,yes,yes,no,yes,0,0,1,Satisfactory
+MS,F,U,GT3,T,at_home,at_home,course,father,no,yes,no,no,yes,no,no,no,0,0,1,Satisfactory
+MS,F,R,GT3,A,at_home,at_home,course,other,no,yes,no,yes,yes,no,no,yes,1,0,0,Needs Improvement
+MS,F,R,GT3,T,services,other,home,mother,no,no,no,no,yes,yes,yes,yes,0,1,1,Good
+MS,M,R,GT3,T,services,other,home,mother,no,yes,yes,yes,no,yes,yes,yes,1,1,1,Satisfactory
+MS,F,U,GT3,T,services,services,course,father,no,yes,no,no,yes,yes,no,yes,0,0,1,Satisfactory
+MS,F,R,GT3,T,teacher,services,other,father,no,yes,yes,yes,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,U,LE3,A,services,other,reputation,mother,no,no,no,no,yes,yes,no,yes,0,0,1,Good
+MS,M,U,LE3,T,other,services,home,father,no,no,no,no,no,yes,yes,yes,0,0,1,Good
+MS,F,U,LE3,T,at_home,services,course,father,no,no,no,no,yes,yes,yes,no,0,0,1,Excellent
+MS,F,R,LE3,A,at_home,other,course,mother,no,no,no,no,yes,yes,no,yes,0,0,1,Good
+MS,F,U,GT3,T,services,services,other,mother,no,yes,no,no,yes,yes,yes,yes,0,1,1,Satisfactory
+MS,F,U,LE3,T,at_home,at_home,course,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Good
+MS,F,R,GT3,T,other,services,course,father,no,no,no,no,no,yes,no,no,0,0,1,Satisfactory
+MS,M,R,GT3,T,at_home,other,course,mother,no,yes,yes,no,yes,yes,no,no,0,0,0,Needs Improvement
+MS,M,U,LE3,T,teacher,services,other,mother,no,no,no,no,yes,yes,yes,yes,0,0,1,Excellent
+MS,F,R,GT3,T,other,services,reputation,mother,no,yes,no,no,yes,yes,yes,yes,1,0,0,Needs Improvement
+MS,F,U,GT3,T,at_home,services,course,father,no,yes,no,no,yes,yes,yes,yes,0,0,1,Satisfactory
+MS,F,R,GT3,T,other,teacher,other,father,no,yes,no,no,no,yes,yes,yes,0,0,0,Needs Improvement
+MS,M,R,LE3,T,at_home,services,other,father,no,yes,no,yes,yes,no,yes,yes,0,1,1,Satisfactory
+MS,F,U,GT3,T,other,at_home,home,mother,no,no,no,yes,yes,yes,no,yes,0,1,1,Satisfactory
+MS,F,R,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,yes,no,0,1,0,Needs Improvement
+MS,F,R,LE3,T,other,other,reputation,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Excellent
+MS,F,R,GT3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,no,0,1,1,Satisfactory
+MS,F,R,GT3,T,at_home,other,course,other,no,yes,no,no,yes,yes,yes,yes,1,1,0,Needs Improvement
+MS,F,R,LE3,T,teacher,services,course,mother,no,no,no,yes,yes,yes,yes,no,0,0,1,Good
+MS,F,U,GT3,T,other,other,home,mother,no,no,no,no,yes,yes,yes,yes,0,0,1,Excellent
+MS,F,R,GT3,T,at_home,other,reputation,mother,no,yes,no,yes,no,yes,yes,no,0,1,0,Needs Improvement
+MS,M,U,GT3,T,teacher,teacher,home,father,no,no,no,yes,no,yes,yes,no,0,1,1,Excellent
+MS,M,R,GT3,T,other,other,other,mother,no,no,no,yes,no,yes,yes,yes,0,0,0,Needs Improvement
+MS,M,U,GT3,T,other,services,home,father,no,no,no,yes,yes,yes,yes,no,0,1,1,Excellent
+MS,M,R,GT3,T,other,services,other,mother,no,no,no,no,yes,yes,no,no,1,0,0,Needs Improvement
+MS,M,R,GT3,T,other,other,home,father,no,no,yes,no,yes,yes,no,no,1,0,0,Needs Improvement
+MS,F,R,GT3,T,at_home,other,other,mother,no,no,no,no,yes,yes,no,no,0,0,1,Good
+MS,F,U,GT3,T,teacher,other,other,mother,no,no,no,no,yes,yes,yes,no,0,0,1,Satisfactory
+MS,F,R,GT3,T,teacher,at_home,reputation,mother,no,yes,no,yes,yes,yes,yes,yes,0,1,1,Satisfactory
+MS,F,R,GT3,T,services,other,course,mother,no,no,no,yes,no,yes,yes,no,1,1,1,Satisfactory
+MS,F,U,LE3,T,teacher,services,course,mother,no,yes,no,no,yes,yes,yes,no,0,1,1,Excellent
+MS,F,U,GT3,T,other,other,course,mother,no,no,no,yes,yes,yes,no,no,0,1,0,Needs Improvement
+MS,M,U,LE3,T,services,services,course,mother,no,no,no,no,no,yes,yes,no,0,1,1,Satisfactory
+MS,M,R,LE3,T,services,other,course,mother,no,no,no,no,no,yes,yes,no,0,1,1,Satisfactory

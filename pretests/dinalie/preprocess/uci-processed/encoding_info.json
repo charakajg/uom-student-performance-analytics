@@ -1,0 +1,168 @@
+{
+  "label_encoders": {
+    "school": {
+      "GP": 0,
+      "MS": 1
+    },
+    "sex": {
+      "F": 0,
+      "M": 1
+    },
+    "address": {
+      "R": 0,
+      "U": 1
+    },
+    "famsize": {
+      "GT3": 0,
+      "LE3": 1
+    },
+    "Pstatus": {
+      "A": 0,
+      "T": 1
+    },
+    "Mjob": {
+      "at_home": 0,
+      "health": 1,
+      "other": 2,
+      "services": 3,
+      "teacher": 4
+    },
+    "Fjob": {
+      "at_home": 0,
+      "health": 1,
+      "other": 2,
+      "services": 3,
+      "teacher": 4
+    },
+    "reason": {
+      "course": 0,
+      "home": 1,
+      "other": 2,
+      "reputation": 3
+    },
+    "guardian": {
+      "father": 0,
+      "mother": 1,
+      "other": 2
+    },
+    "schoolsup": {
+      "no": 0,
+      "yes": 1
+    },
+    "famsup": {
+      "no": 0,
+      "yes": 1
+    },
+    "paid": {
+      "no": 0,
+      "yes": 1
+    },
+    "activities": {
+      "no": 0,
+      "yes": 1
+    },
+    "nursery": {
+      "no": 0,
+      "yes": 1
+    },
+    "higher": {
+      "no": 0,
+      "yes": 1
+    },
+    "internet": {
+      "no": 0,
+      "yes": 1
+    },
+    "romantic": {
+      "no": 0,
+      "yes": 1
+    }
+  },
+  "classification_features": [
+    "age",
+    "Medu",
+    "Fedu",
+    "traveltime",
+    "studytime",
+    "failures",
+    "famrel",
+    "freetime",
+    "goout",
+    "Dalc",
+    "Walc",
+    "health",
+    "absences",
+    "school_encoded",
+    "sex_encoded",
+    "address_encoded",
+    "famsize_encoded",
+    "Pstatus_encoded",
+    "Mjob_encoded",
+    "Fjob_encoded",
+    "reason_encoded",
+    "guardian_encoded",
+    "schoolsup_encoded",
+    "famsup_encoded",
+    "paid_encoded",
+    "activities_encoded",
+    "nursery_encoded",
+    "higher_encoded",
+    "internet_encoded",
+    "romantic_encoded"
+  ],
+  "clustering_features": [
+    "school_encoded",
+    "sex_encoded",
+    "address_encoded",
+    "famsize_encoded",
+    "Pstatus_encoded",
+    "Mjob_encoded",
+    "Fjob_encoded",
+    "reason_encoded",
+    "guardian_encoded",
+    "schoolsup_encoded",
+    "famsup_encoded",
+    "paid_encoded",
+    "activities_encoded",
+    "nursery_encoded",
+    "higher_encoded",
+    "internet_encoded",
+    "romantic_encoded",
+    "age_standardized",
+    "Medu_standardized",
+    "Fedu_standardized",
+    "traveltime_standardized",
+    "studytime_standardized",
+    "failures_standardized",
+    "famrel_standardized",
+    "freetime_standardized",
+    "goout_standardized",
+    "Dalc_standardized",
+    "Walc_standardized",
+    "health_standardized",
+    "absences_standardized"
+  ],
+  "association_features": [
+    "school",
+    "sex",
+    "address",
+    "famsize",
+    "Pstatus",
+    "Mjob",
+    "Fjob",
+    "reason",
+    "guardian",
+    "schoolsup",
+    "famsup",
+    "paid",
+    "activities",
+    "nursery",
+    "higher",
+    "internet",
+    "romantic",
+    "has_failures",
+    "high_absences",
+    "passed",
+    "performance_category"
+  ]
+}
