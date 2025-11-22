@@ -1,0 +1,20 @@
+{
+  "feature_columns": [
+    "gender_encoded",
+    "absences_normalized",
+    "engagement_normalized",
+    "parental_support",
+    "academic_level_normalized"
+  ],
+  "target_column": "pass_fail",
+  "target_label_column": "pass_fail_label",
+  "uci_samples": 1044,
+  "xapi_samples": 480,
+  "feature_descriptions": {
+    "gender_encoded": "Gender (0=F, 1=M)",
+    "absences_normalized": "Absences normalized to 0-1",
+    "engagement_normalized": "Engagement/study time normalized to 0-1",
+    "parental_support": "Parental support (0=No, 1=Yes)",
+    "academic_level_normalized": "Academic level/failures normalized to 0-1"
+  }
+}

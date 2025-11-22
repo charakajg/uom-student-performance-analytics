@@ -1,0 +1,27 @@
+{
+  "best_model": "Naive Bayes",
+  "validation_performance": {
+    "accuracy": 0.8086124401913876,
+    "precision": 0.8253968253968254,
+    "recall": 0.9570552147239264,
+    "f1": 0.8863636363636364,
+    "roc_auc": 0.6438383568951721
+  },
+  "test_performance": {
+    "accuracy": 0.35208333333333336,
+    "precision": 0.647887323943662,
+    "recall": 0.26062322946175637,
+    "f1": 0.3717171717171717,
+    "roc_auc": 0.5052753674912449
+  },
+  "feature_columns": [
+    "gender_encoded",
+    "absences_normalized",
+    "engagement_normalized",
+    "parental_support",
+    "academic_level_normalized"
+  ],
+  "train_samples": 835,
+  "val_samples": 209,
+  "test_samples": 480
+}

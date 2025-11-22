@@ -1,0 +1,45 @@
+{
+  "common_features": [
+    "absences_normalized",
+    "academic_history",
+    "age_numeric",
+    "education_background",
+    "engagement",
+    "gender",
+    "support_indicator"
+  ],
+  "uci_features": [
+    "absences_normalized",
+    "academic_history",
+    "age_numeric",
+    "education_background",
+    "engagement",
+    "final_grade",
+    "final_grade_normalized",
+    "gender",
+    "support_indicator"
+  ],
+  "oulad_features": [
+    "absences_normalized",
+    "academic_history",
+    "age_numeric",
+    "education_background",
+    "engagement",
+    "final_grade",
+    "final_grade_0_20",
+    "final_grade_normalized",
+    "gender",
+    "support_indicator"
+  ],
+  "target_variables": {
+    "uci": [
+      "final_grade",
+      "final_grade_normalized"
+    ],
+    "oulad": [
+      "final_grade",
+      "final_grade_normalized",
+      "final_grade_0_20"
+    ]
+  }
+}

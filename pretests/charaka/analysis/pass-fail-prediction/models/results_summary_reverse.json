@@ -1,0 +1,27 @@
+{
+  "best_model": "Gradient Boosting",
+  "validation_performance": {
+    "accuracy": 0.96875,
+    "precision": 0.9594594594594594,
+    "recall": 1.0,
+    "f1": 0.9793103448275862,
+    "roc_auc": 0.9909859154929578
+  },
+  "test_performance": {
+    "accuracy": 0.7796934865900383,
+    "precision": 0.7796934865900383,
+    "recall": 1.0,
+    "f1": 0.876210979547901,
+    "roc_auc": 0.5187533383185557
+  },
+  "feature_columns": [
+    "gender_encoded",
+    "absences_normalized",
+    "engagement_normalized",
+    "parental_support",
+    "academic_level_normalized"
+  ],
+  "train_samples": 384,
+  "val_samples": 96,
+  "test_samples": 1044
+}
