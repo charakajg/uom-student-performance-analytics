@@ -1,11 +1,27 @@
 # UOM Student Performance Analytics
 
-Exploratory data analysis of student performance datasets using Jupyter/Colab notebooks.
+Analysis and predictive modeling of student performance using multiple educational datasets.
 
-## Structure
+## Datasets
+
+- **Open University Learning Analytics Dataset (OULAD)** - Student demographics, assessments, and VLE interactions
+- **UCI Student Performance** - Portuguese secondary school student data
+- **xAPI Educational Data** - Student engagement and behavioral data
+- **EPM Dataset** - Educational process mining data with session logs (not used for final analysis)
+
+## Project Structure
 
 - `datasets/` - Raw datasets
-- `pretests/` - Notebooks for data analysis
+- `final_code/` - Final code for EDA, preprocessing, and models
+- `pretests/` - Individual exploratory work and experiments
+
+## Key Analyses
+
+- Student dropout prediction
+- Pass/fail classification
+- Student clustering and segmentation
+- Association rule mining
+- Feature engineering and selection
 
 ## Setup
 
@@ -15,4 +31,4 @@ pip install -r requirements.txt
 
 ## Usage
 
-Open and run the notebooks in `pretests/` to explore the datasets.
+Explore the notebooks in `final_code/` for the main analyses, or check `pretests/` for experimental work.
